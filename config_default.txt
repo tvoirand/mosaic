@@ -1,0 +1,9 @@
+#Default configuration file for mosaic version 0.7 of the 20181010.
+#Lines starting with # are skipped
+#
+input_directory     = /Users/thibautvoirand/creation/images/mosaiques/captures_ecran/2014
+output_image_file   = captures_ecran_2014.png
+fragment_side       = 200
+input_min_width     = 400
+input_min_height    = 400
+aspect_ratio        = 0.7
